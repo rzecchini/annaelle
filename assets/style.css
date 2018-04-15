@@ -70,6 +70,22 @@ img {
   background: #F8BBD0;
 }
 
+.hero {
+  max-width: 62rem;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 40rem) {
+  .hero {
+    display: flex;
+    padding: 3rem 0;
+  }
+
+  .hero > * {
+    flex: 1;
+  }
+}
+
 .presentation {
   margin: 0;
   padding: 1rem 1rem 3rem;
@@ -110,13 +126,23 @@ img {
 
 /* === PROJECTS === */
 .projects {
+  display: flex;
+  flex-wrap: wrap;
   padding: 5rem 1rem 1rem;
   background: white;
 }
 
 .project {
   position: relative;
+  flex: 1 0 auto;
   margin-bottom: 5rem;
+  margin-right: 1rem;
+  width: 30%;
+  min-width: 300px;
+}
+
+.project:last-child { 
+  margin-right: 0;
 }
 
 .project h3 {
