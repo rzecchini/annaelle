@@ -1,9 +1,19 @@
-
 body {
   color: rgba(0,0,0,0.8);
-  background: #F8BBD0;
-  font-family: sans-serif;
+  font-family: 'Spartan MB', sans-serif;
+  font-weight: normal;
   line-height: 1.4;
+}
+
+h1,
+h2,
+h3, 
+h4, 
+h5, 
+h6 {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
 }
 
 ul {
@@ -11,74 +21,164 @@ ul {
   padding: 0;
   list-style: none;
 }
+
 a {
   color: rgba(0,0,0,0.8);
-  /*text-decoration: none;*/
-  /*border-bottom: 4px solid #ee447d;*/
+  text-decoration: none;
 }
+
 p {
   margin: 0;
 }
+
 figure {
   margin: 0;
 }
+
 img {
-  display: block;
-  margin: 2rem auto 0;
   max-width: 100%;
-  max-height: 90vh;
 }
 
+.container {
+  padding: 0 1rem;
+}
+
+/* === HEADER === */
 .header {
-  padding: 1rem;
-}
-
-.menu {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
+  padding: 0.4rem;
+  font-size: 0.75rem;
 }
 
-.menu__item {
-    flex: 1 0 auto;
-    text-align: center;
-    font-size: 1.5rem;
+.header > div {
+  flex: 1;
+  text-align: center;
 }
 
-.menu__item a {
+.header a {
   display: inline-block;
-  padding: 0.3em;
+  padding: 0.2em 0;
 }
 
-.hello {
-  margin: auto;
-  padding: 5% 1rem 2rem;
-  max-width: 32rem;
-  font-family: 'Playfair Display', sans-serif;
-  font-style: italic;
-  line-height: 1.4;
-  font-weight: 900;
+
+/* === HOME === */
+.home {
+  background: #F8BBD0;
 }
 
-@media screen and (min-width: 1000px) {
-  .hello {
-    display: flex;
-    max-width: 70rem;
-  }
-}
-
-.hello__txt {
+.presentation {
+  margin: 0;
+  padding: 1rem 1rem 3rem;
   font-family: 'Playfair Display', serif;
   font-weight: 900;
-  margin: 0;
+  font-style: italic;
+}
+
+.spacer {
+  padding-top: 0.1em; 
+  color: #ee447d;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+}
+
+.presentation a {
+  border-bottom: 2px solid #ee447d;
+}
+
+.presentation__title {
+  margin: 0 0 0.25em;
+  color: #ee447d;
+  font-size: 3.5rem;
+  line-height: 1.12;
+}
+
+.presentation__now {
+  margin: 0 0 0.25em;
+  font-size: 1.5rem;
+  /*line-height: 1.2;*/
+}
+
+.presentation__intro {
+  font-size: 1.5rem;
+}
+
+
+/* === PROJECTS === */
+.projects {
+  padding: 5rem 1rem 1rem;
+  background: white;
+}
+
+.project {
+  position: relative;
+  margin-bottom: 5rem;
+}
+
+.project h3 {
+  position: absolute;
+  top: -0.7em;
+  left: 0;
+  color: #ee447d;
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  line-height: 1.12;
+}
+
+
+/* === WORK === */
+.work {
+  padding-top: 1rem;
+}
+
+.work section {
+  margin-bottom: 2rem;
+}
+
+.work h1 {
+  margin-bottom: 0.5em;
+  color: #ee447d;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 3.5rem;
+  line-height: 1.12;
+}
+
+.work h2 {
+  margin-bottom: 0.12em;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
   font-style: italic;
   font-size: 2rem;
+  line-height: 1.12;
 }
 
-.hello__title {
-  margin: 0;
+.work h3 {
+  margin-bottom: 0.5rem;
   color: #ee447d;
-  font-weight: 900;
-  font-size: inherit;
+  font-size: 0.75rem;
+  text-transform: uppercase;
 }
 
+.work p {
+  margin-bottom: 1rem;
+}
+
+.work img {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+
+
+
+/* === FOOTER === */
+.footer {
+  padding: 1rem;
+  background: #F8BBD0;
+  text-align: center;  
+}
 

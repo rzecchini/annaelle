@@ -1,17 +1,22 @@
 <div class="header">
-	<nav>
-		<ul class="menu">
-		  <li class="menu__item">
-          	<a href="/">annalanaro.com</a>
+  <div>
+    <a href="/">Anna</a>
+  </div>
+
+  <div>
+    <img src="/assets/portrait.png" height="76">
+  </div>
+      
+  <div>
+    <ul class="menu">
+      {% assign works = site.pages | where: "menu", true | sort: 'index' %}
+      {% for work in works %}
+        {% if work.title %}
+          <li>
+            <a href="{{ work.url }}">{{ work.title }}</a>
           </li>
-          {% assign works = site.pages | where: "menu", true | sort: 'index' %}
-          {% for work in works %}
-            {% if work.title %}
-              <li class="menu__item">
-              	<a href="{{ work.url }}">{{ work.title }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-	</nav>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </div>
