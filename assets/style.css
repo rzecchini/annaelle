@@ -41,6 +41,8 @@ img {
 
 .container {
   padding: 0 1rem;
+  margin: 0 auto;
+  max-width: 46rem;
 }
 
 /* === HEADER === */
