@@ -64,6 +64,16 @@ img {
   padding: 0.2em 0;
 }
 
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.menu li {
+  margin-right: 1rem;
+}
+
 
 /* === HOME === */
 .home {
@@ -128,8 +138,10 @@ img {
 .projects {
   display: flex;
   flex-wrap: wrap;
+  max-width: 88rem;
+  margin: 0 auto;
   padding: 5rem 1rem 1rem;
-  background: white;
+  /* background: white; */
 }
 
 .project {
