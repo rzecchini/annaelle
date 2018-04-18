@@ -113,6 +113,25 @@ img {
   font-style: italic;
 }
 
+
+
+.asd {
+  margin: 0;
+  padding: 1rem 1rem 3rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-style: italic;
+  text-align: center;
+}
+
+.asd img {
+  width: 300px
+}
+
+
+
+
+
 .spacer {
   padding-top: 0.1em; 
   color: #ee447d;
