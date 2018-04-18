@@ -7,50 +7,43 @@
 
   {% include header.html %}
 
-  <div class="home">
-    <div class="hero">
-      <!--<figure>
-        <img src="/img/anna3.jpg" alt="Anna Lanaro profile picture">
-      </figure>
-
-      <div class="presentation">
-        <h1 class="presentation__title">Anna, Graphic Designer &amp; Illustrator.</h1>
-        <p class="presentation__now">Currently working at <a href="http://www.dope-factory.com" target="_blank">Dope Factory</a> as graphic designer, photographer and content &amp; social media manager.</p>
-        <p class="spacer">***</p>
-        <p class="presentation__intro">I enjoy working on different media as I often switch grounds during jobs. I’m a curious person. I like to meet people and to work in social environments. I love being in the mountains and baking cakes.</p>
-      </div>-->
-      
-      
-      
-
+  <div class="home">     
+    <div class="presentation">
+      <h1 class="presentation__title">Anna, Graphic Designer &amp; Illustrator.</h1>
       <div class="asd">
-        <h1 class="presentation__title">Anna, Graphic Designer &amp; Illustrator.</h1>
-        <p class="presentation__now">Currently working at <a href="http://www.dope-factory.com" target="_blank">Dope Factory</a> as graphic designer, photographer and content &amp; social media manager.</p>
-        <figure>
-          <img src="/img/anna3.jpg" alt="Anna Lanaro profile picture">
-        </figure>
-        <p class="presentation__intro">I enjoy working on different media as I often switch grounds during jobs. I’m a curious person. I like to meet people and to work in social environments. I love being in the mountains and baking cakes.</p>
+        <div class="qwe">
+          <figure class="presentation__picXXXXX">
+            <img src="/img/anna4.jpg" alt="Anna Lanaro profile picture">
+          </figure>
+        </div>
+
+        <div class="qwe">
+          <div class="presentation__txt">
+            <p class="presentation__intro">I enjoy working on different media as I often switch grounds during jobs. I’m a curious person. I like to meet people and to work in social environments. I love being in the mountains and baking cakes.</p>
+            <p class="presentation__now">Currently working at <a href="http://www.dope-factory.com" target="_blank">Dope Factory</a> as graphic designer, photographer and content &amp; social media manager.</p>
+          </div>
+        </div>
       </div>
-      
-      
-      
     </div>
 
-    <div class="projects">
-      {% assign works = site.pages | where: "menu", true | sort: 'index' %}
-      {% for work in works %}
-        {% if work.title %}
-          <div class="project">
-            <a href="{{ work.url }}">
-              <h3>{{ work.title }}</h3>
-              <img src="https://source.unsplash.com/random/450x300?sig={{forloop.index}}" alt="">
-            </a>
-          </div>
-        {% endif %}
-      {% endfor %}
+    <div class="container">
+      <div class="projects">
+        {% assign works = site.pages | where: "menu", true | sort: 'index' %}
+        {% for work in works %}
+          {% if work.title %}
+            <div class="project">
+              <a href="{{ work.url }}">
+                <h3>{{ work.title }}</h3>
+                <img src="https://source.unsplash.com/random/450x300?sig={{forloop.index}}" alt="">
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 
   {% include footer.html %}
+
 </body>
 </html>
