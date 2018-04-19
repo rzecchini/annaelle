@@ -7,7 +7,7 @@
 
   {% include header.html %}
 
-  <div class="home">     
+  <div class="hero">     
     <div class="presentation">
       <h1 class="presentation__title">Anna, Graphic Designer &amp; Illustrator.</h1>
       <div class="asd">
@@ -25,7 +25,9 @@
         </div>
       </div>
     </div>
+  </div>
 
+  <div class="content">
     <div class="container">
       <div class="projects">
         {% assign works = site.pages | where: "menu", true | sort: 'index' %}
@@ -42,7 +44,7 @@
       </div>
     </div>
   </div>
-
+  
   {% include footer.html %}
 
 </body>

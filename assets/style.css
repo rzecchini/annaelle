@@ -96,10 +96,17 @@ img {
 
 
 /* === HOME === */
-.home {
+.hero {
+  padding-bottom: 9rem;
   background: #F8BBD0;
 }
 
+.content {
+  margin-top: -8rem;
+}
+
+
+/* === PRESENTATION === */
 .presentation {
   margin: 0 auto;
   padding: 1rem;
@@ -136,8 +143,9 @@ img {
 }
 @media screen and (min-width: 50rem) {
   .presentation__title {
-    padding: 2rem 0 1rem;
+    padding: 3rem 0 4rem;
     font-size: 3.5rem;
+    text-align: center;
   }
 }
 
@@ -162,11 +170,11 @@ img {
 }
 
 .presentation__intro {
-  margin: 0 0 0.5rem;
+  margin: 0 0 1rem;
   font-family: 'Playfair Display', serif;
-  font-weight: 700;
+  font-weight: 400;
   font-style: italic;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   line-height: 1.3;
 }
 
@@ -231,13 +239,14 @@ img {
   left: 0;
   color: #ee447d;
   font-family: 'Playfair Display', serif;
-  font-size: calc(2rem + 2vw);
+  font-weight: 900;
+  font-size: 2.5rem;
   line-height: 1.12;
 }
 
 @media screen and (min-width: 50rem) {
   .project h3 {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
 
@@ -346,8 +355,9 @@ img {
 
 /* === FOOTER === */
 .footer {
-  padding: 1rem 1rem 5rem;
-  background: #F8BBD0;
+  padding: 1rem 1rem 6rem;
+  /*background: #F8BBD0;*/
+  font-size: 0.875rem;
   text-align: center;  
 }
 
