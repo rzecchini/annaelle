@@ -227,6 +227,11 @@ img {
   padding-top: 1rem;
   /*text-align: center;*/
 }
+
+.work a {
+  border-bottom: 1px solid #ee447d;
+}
+
 .work header {
   max-width: 32rem;
   margin: 0 auto 2rem;
