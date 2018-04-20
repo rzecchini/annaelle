@@ -96,12 +96,12 @@ img {
 
 /* === HOME === */
 .cover {
-  padding-bottom: 9rem;
+  padding-bottom: 1rem;
   background: #F8BBD0;
 }
 
 .content {
-  margin-top: -8rem;
+  margin-top: 2rem;
 }
 
 
@@ -229,7 +229,7 @@ img {
 }
 .work header {
   max-width: 32rem;
-  margin: 0 0 2rem 1%;
+  margin: 0 auto 2rem;
 }
 
 .work section {
