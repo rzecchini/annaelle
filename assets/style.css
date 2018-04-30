@@ -321,6 +321,70 @@ img {
 }
 
 
+/* === POST === */
+.post {
+  padding-top: 1rem;
+  /*text-align: center;*/
+}
+
+.post a {
+  border-bottom: 1px solid #ee447d;
+}
+
+.post img {
+  height: auto;
+}
+
+.post header {
+  max-width: 32rem;
+  margin: 0 auto 2rem;
+}
+
+.post section {
+  margin-bottom: 8rem;
+}
+
+.post .container > * {
+  max-width: 32rem;
+  margin: 0 auto 1rem;
+}
+
+.post h1 {
+  margin-bottom: 0.5em;
+  color: #ee447d;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 3rem;
+  line-height: 1.12;
+  text-align: center;
+}
+
+@media screen and (min-width: 50rem) {
+  .post h1 {
+    padding: 3rem 0 4rem;
+    font-size: 3.5rem;
+  }
+}
+
+.post h2 {
+  margin-bottom: 0.5rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 2rem;
+  line-height: 1.12;
+}
+
+.post h3 {
+  margin-bottom: 0.5rem;
+  color: #ee447d;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  text-transform: uppercase;
+}
+
+
 /* === FOOTER === */
 .footer {
   padding: 1rem 1rem 7rem;
