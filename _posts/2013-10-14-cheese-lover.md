@@ -39,7 +39,7 @@ The original New York Cheesecake is made with cream cheese and eggs. A lot of eg
 
 P.s. I use _Digestives_ for the base of the cake, but I have managed to do a gluten-free version with celiac-friendly breakfast biscuits. It works good!
 
-### Cheesecake italiana
+## Cheesecake italiana
 * 180 g Digestives biscuits (or any other breakfast biscuit)
 * 70 g softened butter
 * 200 g cream cheese
