@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=469
 permalink: /cavoli-a-merenda/
-image: /wp-content/uploads/2013/11/torta_romanesco_picc1-624x2322.jpg
+image: /wp-content/uploads/2013/11/torta_romanesco_picc1.jpg
 categories:
   - illustrazioni
   - ricette

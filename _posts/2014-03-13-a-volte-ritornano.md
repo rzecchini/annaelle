@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=482
 permalink: /a-volte-ritornano/
-image: /wp-content/uploads/2014/03/laugenbrot-624x1281.jpg
+image: /wp-content/uploads/2014/03/laugenbrot.jpg
 categories:
   - ricette
   - salato

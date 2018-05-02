@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=419
 permalink: /ricominciamo/
-image: /wp-content/uploads/2013/10/tortino_funghi_fin-624x1501.jpg
+image: /wp-content/uploads/2013/10/tortino_funghi_fin.jpg
 categories:
   - illustrazioni
   - ricette

@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=375
 permalink: /daddy-cool/
-image: /wp-content/uploads/2013/03/foto-604x270.jpg
+image: /wp-content/uploads/2013/03/foto.jpg
 categories:
   - dolce
   - pensieri

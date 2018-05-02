@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=408
 permalink: /apple-crumble-in-barattolo/
-image: /wp-content/uploads/2013/05/a_c_in_a_jar-604x270.jpg
+image: /wp-content/uploads/2013/05/a_c_in_a_jar.jpg
 categories:
   - dolce
   - illustrazioni

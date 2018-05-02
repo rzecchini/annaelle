@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=461
 permalink: /cacao-pere-is-the-new-black/
-image: /wp-content/uploads/2013/11/torta_pere1-624x1683.jpg
+image: /wp-content/uploads/2013/11/torta_pere1.jpg
 categories:
   - dolce
   - illustrazioni

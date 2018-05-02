@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=370
 permalink: /back-in-black-and-white/
-image: /wp-content/uploads/2013/03/abbracci_picc-567x270.jpg
+image: /wp-content/uploads/2013/03/abbracci_picc.jpg
 categories:
   - dolce
   - illustrazioni

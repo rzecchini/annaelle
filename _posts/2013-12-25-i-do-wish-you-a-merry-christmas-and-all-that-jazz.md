@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=478
 permalink: /i-do-wish-you-a-merry-christmas-and-all-that-jazz/
-image: /wp-content/uploads/2013/12/meowy_xmas_pic-624x859.jpg
+image: /wp-content/uploads/2013/12/meowy_xmas_pic.jpg
 categories:
   - Uncategorized
 ---

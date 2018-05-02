@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=353
 permalink: /quasi-fuori-stagione/
-image: /wp-content/uploads/2012/11/flan_carciofi-604x270.jpg
+image: /wp-content/uploads/2012/11/flan_carciofi.jpg
 categories:
   - ricette
   - salato

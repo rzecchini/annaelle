@@ -8,12 +8,18 @@
     {% include header.html %}
     
     <div class="container">
-        {% for post in site.posts %}
-        <article>
-            <div style="width:100px;height:100px;overflow:hidden"><img src="{{ post.image }}"></div> 
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </article>
-        {% endfor %}
+        <div class="recipes">
+            {% for post in site.posts %}
+            <article class="recipe">
+                <a href="{{ post.url }}">
+                    <figure class="recipe__img">
+                        <img src="{{ post.image }}">
+                    </figure> 
+                    <h3 class="recipe__title">{{ post.title }}</h3>
+                </a>
+            </article>
+            {% endfor %}
+        </div>
     </div>
 
     {% include footer.html %}

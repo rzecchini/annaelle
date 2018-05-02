@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=327
 permalink: /torta-di-riso/
-image: /wp-content/uploads/2012/11/tortadiriso_finale-604x270.jpg
+image: /wp-content/uploads/2012/11/tortadiriso_finale.jpg
 categories:
   - dolce
   - illustrazioni

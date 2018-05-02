@@ -6,7 +6,7 @@ author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=437
 permalink: /cheese-lover/
-image: /wp-content/uploads/2013/10/cheesecake_finale-624x1024.jpg
+image: /wp-content/uploads/2013/10/cheesecake_finale.jpg
 categories:
   - dolce
   - illustrazioni
