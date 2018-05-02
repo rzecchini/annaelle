@@ -13,61 +13,43 @@ tags:
   - birra
   - pane
 ---
-Un sogno che ho sempre avuto è quello di farmi il pane in casa.
+Un sogno che ho sempre avuto è quello di farmi il pane in casa. Impastare, infornare e inondare la casa di profumi familiari e caldi, sentirsi incredibilmente padrona di casa, scegliere la farina&#8230; Il mio grande limite è la pazienza: pensare di impastare qualcosa che avrei consumato ore ed ore dopo, attendere la lievitazione, impastare fino a levare i grumi non sono cose per me.
+
+Questa ricetta è la soluzione alle per le massaie che &#8220;non c&#8217;hanno voglia&#8221;, altresì detta: la svolta. Ed è terribilmente buono.
+
+## Beer Bread
   
-Impastare, infornare e inondare la casa di profumi familiari e caldi,
+(adattata da [Pastry Affair](http://www.pastryaffair.com/blog/2012/2/2/beer-bread.html "Pastry Affair"))
   
-sentirsi incredibilmente padrona di casa, scegliere la farina&#8230;
-  
-Il mio grande limite è la pazienza: pensare di impastare qualcosa
-  
-che avrei consumato ore ed ore dopo, attendere la lievitazione,
-  
-impastare fino a levare i grumi non sono cose per me.
+* 3 tazze di farina tipo 00
+* 1 cucchiaio di bicarbonato di sodio
+* 2 cucchiaini di sale
+* 1/4 di tazza di zucchero
+* 350 ml di birra chiara
 
-Questa ricetta è la soluzione alle per le massaie che &#8220;non c&#8217;hanno
-  
-voglia&#8221;, altresì detta: la svolta. Ed è terribilmente buono.
+<img title="panespezzato" src="http://anotherkitchenblog.files.wordpress.com/2012/03/panespezzato.jpg" alt="pane spezzato" width="460" height="342" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato.jpg 684w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato-300x223.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
 
-_Beer Bread_
-  
-_(adattata da [Pastry Affair](http://www.pastryaffair.com/blog/2012/2/2/beer-bread.html "Pastry Affair"))_
-  
-_3 tazze di farina tipo 00_
-  
-_1 cucchiaio di bicarbonato di sodio_
-  
-_2 cucchiaini di sale_
-  
-_1/4 di tazza di zucchero_
-  
-_350 ml di birra chiara_
 
-&nbsp;
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/03/06/pane-alla-birra/panespezzato/" rel="attachment wp-att-236"><img class="alignleft  wp-image-236" title="panespezzato" src="http://anotherkitchenblog.files.wordpress.com/2012/03/panespezzato.jpg" alt="pane spezzato" width="460" height="342" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato.jpg 684w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato-300x223.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" /></a>
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
+
+
+
+
+
+
+
+
 
 Preriscalda il forno a 180°C e fodera una teglia con carta da forno.
   
@@ -97,6 +79,6 @@ perfettamente allo scopo, poiché non interferisce con il sapore del pane.
   
 Di conseguenza, low cost è bello.
 
-&nbsp;
+
 
 <a href="http://anotherkitchenblog.wordpress.com/2012/03/06/pane-alla-birra/pane/" rel="attachment wp-att-237"><img class="alignleft  wp-image-237" title="pane" src="http://anotherkitchenblog.files.wordpress.com/2012/03/pane.jpg" alt="pane" width="447" height="334" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pane.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pane-300x224.jpg 300w" sizes="(max-width: 447px) 100vw, 447px" /></a>

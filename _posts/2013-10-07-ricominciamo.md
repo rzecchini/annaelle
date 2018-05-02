@@ -24,47 +24,26 @@ Non sono riuscita ad ottenere lo stesso piatto che ho assaporato in quel piccolo
 
 E qui sopra la ricetta!
 
-\*\* english text \*\*
+### english text
 
 Preface:
   
-_Sometimes they come back_, and I am trying, too.
+Sometimes they come back, and I am trying, too.
   
-I would like to restart after a long holiday summer, and to begin with a new appointment
-  
-(a weekly date?) with you and my recipes. I start this monday, hoping that I will hold on with
-  
-the rhythm! I hope so.
+I would like to restart after a long holiday summer, and to begin with a new appointment (a weekly date?) with you and my recipes. I start this monday, hoping that I will hold on with the rhythm! I hope so.
 
-I am starting today with a recipe that I tasted far away from home, a recipe that someone
-  
-else cooked for me. To be exact, it is a typical Ligurian dish that I have eaten at a special
-  
-place, in a small town called Dolceacqua (that you should visit, yes you should!).
-  
-I haven&#8217;t been able to cook it exactly as they served it there, and my version tasted a little
-  
-different, but I am sure that every time I will cook this recipe I will go back to a lovely
-  
-sensation of familiar warmth, and holiday relax.
+I am starting today with a recipe that I tasted far away from home, a recipe that someone else cooked for me. To be exact, it is a typical Ligurian dish that I have eaten at a special place, in a small town called Dolceacqua (that you should visit, yes you should!). I haven&#8217;t been able to cook it exactly as they served it there, and my version tasted a little different, but I am sure that every time I will cook this recipe I will go back to a lovely sensation of familiar warmth, and holiday relax.
 
 Here it is &#8211; the recipe!
 
-**Tortino ai** **funghi**
-  
-_600 g potatoes
-  
-400 g champignon mushrooms_
-  
-_25 g dried mushrooms (porcini will work fine)_
-  
-_1 clove of garlic_
-  
-_2 tsp parsley, chopped_
-  
-_butter_
-  
-_olive oil, salt and pepper_
+## Tortino ai funghi
+* 600 g potatoes
+* 400 g champignon mushrooms
+* 25 g dried mushrooms (porcini will work fine)
+* 1 clove of garlic
+* 2 tsp parsley, chopped
+* butter
+* olive oil, salt and pepper
 
 Let the dried porcini soak for 30  minutes, then rinse and drip-dry. Keep the water in which you soaked them and filter it in a saucepan. Add the (rinsed) dried porcini, a teaspoon of butter and cook over low heat for half an hour. Meanwhile, slice the potatoes (after you have rinsed them all) and the champignons.
   

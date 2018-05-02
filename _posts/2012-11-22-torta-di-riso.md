@@ -17,8 +17,7 @@ tags:
 ---
 Un&#8217;altra ricetta illustrata.
 
-&#8212;
+### english text
 
 Another illustrated recipe (english translation coming soon!)
 
-&nbsp;

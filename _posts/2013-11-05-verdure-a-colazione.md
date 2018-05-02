@@ -18,7 +18,7 @@ Il primo giorno, temendo che le nostre colazioni potessero mancare di qualcosa, 
   
 Le carote danno alla torta la consistenza soffice e permettono che questa rimanga morbida per molti, molti giorni. Inutile dire che non sono riuscita a testare di persona la durata della torta, dal momento che non è sopravvissuta più di 24 ore.
 
-\*\*english text\*\*
+### english text
 
 I spent my past week in a semi-holiday mood, in a small house in the Altipiano di Asiago. We used to wake up late in the morning to make long (weather permitting) walks, sometimes interchanged with some work-reading-cooking sessions.
 
@@ -26,22 +26,14 @@ The first day, fearing that our breakfasts could have been lacking of something,
   
 Carrots give the cake a soft texture and they let it stay mellow for days. Needless to say, I couldn&#8217;t test the cake lifetime because it didn&#8217;t last more than 24 hours.
 
-**Carrot cake
-  
-** _180 g sugar
-  
-2 eggs_
-  
-_1/3 glass seed oil (sunflower or corn)
-  
-400 g carrots, peeled
-  
-300 g flour &#8220;00&#8221;
-  
-1 pack baking powder_
+## Carrot cake
+* 180 g sugar
+* 2 eggs
+* 1/3 glass seed oil (sunflower or corn)
+* 400 g carrots, peeled 
+* 300 g flour &#8220;00&#8221;
+* 1 pack baking powder_
 
 Grate the carrots and set them aside. Beat the eggs with sugar until fluffy, then add carrots, sifted flour and baking powder. Pour in a cake pan and bake for half an hour at 180°C. Serve sprinkled with confectioner&#8217;s sugar.
 
-&nbsp;
-
-[<img class="alignnone size-full wp-image-457" alt="torta_carote" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg" width="650" height="731" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg 650w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-266x300.jpg 266w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-624x701.jpg 624w" sizes="(max-width: 650px) 100vw, 650px" />](http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg)
+<img class="alignnone size-full wp-image-457" alt="torta_carote" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg" width="650" height="731" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg 650w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-266x300.jpg 266w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-624x701.jpg 624w" sizes="(max-width: 650px) 100vw, 650px" />

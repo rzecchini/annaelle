@@ -22,37 +22,23 @@ Sabato mattina mi sono svegliata tardi e ho deciso di riempire il (poco) rimanen
 
 Ho scartabellato il web fino a trovare una ricetta lituana e, grazie a Google Translate e un po&#8217; di fortuna, sono arrivata a questo plum-cake bello e buono. Buono davvero!
 
-&nbsp;
-
-\*\*english text\*\*
+### english text
 
 Saturday morning I woke up late and I decided to spend the (few) remaining morning hours cooking. It was lunch time, I know, but past week I had bought four gorgeous organic pears, and they were just perfectly ripe.
 
 I have skimmed through the web until I found a Lithuanian recipe. Then, thanks to Google Translate and some luck, I managed to bake this good looking, good tasting cake. So good!
 
-**Cocoa and pear plum-cake
-  
-** _180 g softened butter
-  
-_ _150 g cane sugar
-  
-_ _200 g flour (pastry flour or “00” type)
-  
-_ _50 g bitter powdered cocoa
-  
-_ _1 tsp baking powder
-  
-_ _200 ml heavy cream
-  
-_ _3 eggs
-  
-_ _1 pinch of salt
-  
-_ _3 small pears
-  
-_ _1/2 glass of milk
-  
-_ 
+## Cocoa and pear plum-cake
+* 180 g softened butter
+* 150 g cane sugar
+* 200 g flour (pastry flour or “00” type)
+* 50 g bitter powdered cocoa
+* 1 tsp baking powder
+* 200 ml heavy cream
+* 3 eggs
+* 1 pinch of salt
+* 3 small pears
+* 1/2 glass of milk
 
 Beat the egg whites until stiff (if added, a pinch of salt can ease your job), then set them apart in the fridge, you will add them later. Beat half of the sugar with butter until pale and creamy. Beat the egg yolks with the remaining sugar and add to the butter cream.
   
@@ -66,6 +52,4 @@ Bake at 170°C for an hour, checking with a toothpick (if it comes out clean and
   
 Serve sprinkled with confectioners sugar, but beware! Do not extract the cake from the pan until completely cooled, or it will crack apart.
 
-&nbsp;
-
-[<img class="alignnone size-full wp-image-464" alt="torta_pere_pic_2" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg" width="700" height="525" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg 700w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-300x225.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-624x468.jpg 624w" sizes="(max-width: 700px) 100vw, 700px" />](http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg)
+<img class="alignnone size-full wp-image-464" alt="torta_pere_pic_2" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg" width="700" height="525" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg 700w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-300x225.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-624x468.jpg 624w" sizes="(max-width: 700px) 100vw, 700px" />

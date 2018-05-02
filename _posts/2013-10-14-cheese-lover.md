@@ -27,9 +27,9 @@ La New York cheesecake originale è fatta con formaggio spalmabile (&#8220;cream
 
 P.s. Io uso i biscotti di tipo _Digestives_, ma ho tentato con successo anche una versione senza glutine con dei biscotti secchi per celiaci. Ottimo, ottimo risultato!
 
-\*\* english text \*\*
+### english text
 
-<span style="line-height: 1.714285714; font-size: 1rem;">Let&#8217;s start with a premise: everybody has its own vice.</span>
+Let&#8217;s start with a premise: everybody has its own vice.
 
 I&#8217;m not here to judge anyone, but I want to admit my fault: my die-hard bad habit is cheese.
   
@@ -39,27 +39,17 @@ The original New York Cheesecake is made with cream cheese and eggs. A lot of eg
 
 P.s. I use _Digestives_ for the base of the cake, but I have managed to do a gluten-free version with celiac-friendly breakfast biscuits. It works good!
 
-**Cheesecake** **italiana
-  
-** _180 g Digestives biscuits (or any other breakfast biscuit)
-  
-_ _70 g softened butter
-  
-_ _200 g cream cheese
-  
-_ _400 g ricotta cheese
-  
-_ _200 g full-fat cream
-  
-180 g sugar
-  
-zest of half a lemon
-  
-2 eggs
-  
-_ 
-  
-__Mince the biscuits and stir in the butter. Then create a base for the cake in a paper-lined baking pan (I used a 20 cm diameter pan), using a spoon to make it compact. Store in the fridge while making the cream.
+### Cheesecake italiana
+* 180 g Digestives biscuits (or any other breakfast biscuit)
+* 70 g softened butter
+* 200 g cream cheese
+* 400 g ricotta cheese
+* 200 g full-fat cream
+* 180 g sugar
+* zest of half a lemon
+* 2 eggs
+
+Mince the biscuits and stir in the butter. Then create a base for the cake in a paper-lined baking pan (I used a 20 cm diameter pan), using a spoon to make it compact. Store in the fridge while making the cream.
   
 Preheat the oven at 150°C. Whisk together cream cheese, ricotta cheese, cream, sugar, lemon zest and finally the eggs. Pour the cream onto the base, then put the pan in a bigger pan, which must be filled up with boiling water. Put them both in the oven and bake for an hour at 150°C (if your cake pan is not waterproof, then put the first pan in a second pan, and then finally in the boiling water pan. It sounds tricky, but is easier than it seems and it will save your work).
   
