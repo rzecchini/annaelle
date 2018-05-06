@@ -1,0 +1,161 @@
+@import url(http://fonts.googleapis.com/css?family=Lekton:400,700,400italic);
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+
+/*--- CAROUSEL ---*/
+
+.carousel ul {
+    position:absolute;
+    overflow:hidden;
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+.carousel .mask {
+    position:relative;
+    overflow:hidden;
+    width:730px;
+}
+
+.carousel ul li {
+	float:left;
+	width:730px;
+    height:485px;
+}
+
+.carousel .pagination-links {
+    list-style:none;
+	margin-top: 1em;
+	height: 2.763em;
+}
+ 
+.carousel .pagination-links li {
+    display:inline;
+}
+
+.carousel .pagination-links li a {
+	text-decoration: none;
+	font-size: 1.166em;	
+	margin: 0 .409em;
+	padding: 0.1555em;
+}
+
+.carousel .pagination-links li a:hover {
+	text-decoration:none;
+}
+
+.carousel .pagination-links li.current a {
+	 border-bottom: 3px solid deeppink;
+ }
+ 
+.carousel .disabled {
+    color:gray;
+    cursor:default;
+}
+
+/*--- MAIN ---*/
+
+body{
+	background: white;
+	background-image: url(img/portrait.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center 3.157em;
+	padding: 1.333em;
+	font: normal .875em/1.333em "Lekton", sans-serif;
+	color: black;
+	position: relative;
+	border-top: 5px solid deeppink;
+}
+
+a{
+	color: black;
+}
+
+header{
+	margin: 13.288em 0 5.61em;
+	width: 100%;
+	text-align: center;
+}
+
+header h2::after{
+	content: "⎯";
+	display: block;
+	margin-top: 2.369em;
+}
+
+.about{
+	background: white;
+	position: fixed;
+	top: 13em;
+	left: 50%;
+	padding: 3em;
+	margin-left: -21em;
+	z-index: 1000;
+	width: 36em;
+	border: 5px solid deeppink;
+	display: none;
+}
+
+.me {
+	font-weight: bold;
+}
+
+.close-link{
+	text-decoration: none;
+	color: deeppink;
+	font-size: 3em;
+	top: .5em;
+	right: .3em;
+	position: absolute;
+}
+
+.single-work{
+	margin-bottom: 8.723em;
+	overflow: hidden;
+}
+
+.title {
+	font-style: italic;
+}
+
+h3{
+	font-weight: bold;
+	margin-bottom: 1.333em;
+}
+
+.work-description{
+	margin: 2.763em 0;
+}
+
+.work-description p{
+	max-width: 27.5em;
+}
+
+blockquote{
+	padding: 1em 0 0 1em;
+	color: deeppink;
+	max-width: 20.66em;
+	font-style: italic;
+}
+
+@media screen and (min-width: 1200px) {
+	
+	body{
+		padding: 2.763em;
+	}
+	
+	.work-description{
+		float: left;
+		margin-left: 4.909em;
+		margin-top: 0;
+		max-width: 25em;
+	}
+	
+	.pics-carousel{
+		float: left;
+		max-width: 800px;
+	}
+	
+}
