@@ -18,7 +18,7 @@ exclude:
   - vendor/ruby/
 
 # Include
-include: ["_pages"]
+include: ["_pages", "_redirects"]
 
 # Defaults
 defaults:
