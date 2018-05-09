@@ -15,7 +15,10 @@
                     <figure class="recipe__img">
                         <img src="{{ post.image }}">
                     </figure> 
-                    <h3 class="recipe__title">{{ post.title }}</h3>
+                    <div>
+                        <h3 class="recipe__title">{{ post.title }}</h3>
+                        <p class="recipe__date">{{ post.date | date: '%b %Y' }}</p>
+                    </div>
                 </a>
             </article>
             {% endfor %}

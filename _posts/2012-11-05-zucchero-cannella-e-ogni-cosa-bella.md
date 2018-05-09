@@ -35,7 +35,7 @@ Oh, la Svezia! Biondissimi adoni, Inverni gelidi, design all&#8217;avanguardia, 
 **ripieno:**
 * 6 o 7 tbsp burro ammorbidito (circa 80 g)
 * 1/2 cup zucchero di canna
-* 2 tbsp cannella_
+* 2 tbsp cannella
 
 **per spennellare:**
 * 1 uovo
@@ -80,7 +80,7 @@ Oh, Sweden! Beautiful blonde guys, cold winters, cool design pieces, gorgeous fo
 * 1/2 cup cane sugar
 * 1/2 tsp salt
 * 1 egg
-* 5 cups flour_
+* 5 cups flour
 
 **filling:**
 * 6 or 7 tbsp butter, room temperature
