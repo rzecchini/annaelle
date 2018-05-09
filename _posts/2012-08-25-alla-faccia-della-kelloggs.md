@@ -16,7 +16,7 @@ Banalità a parte, ci sono anche buone nuove da queste parti: mi sono decisa a s
 
 Non mi dilungo oltre.
 
-<img class="alignnone size-full wp-image-305" title="muesli pistacchi" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/rossibiancopistacchi.jpg" alt="muesli pistacchi" width="545" height="395" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/rossibiancopistacchi.jpg 2211w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/rossibiancopistacchi-300x217.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/rossibiancopistacchi-1024x743.jpg 1024w" sizes="(max-width: 545px) 100vw, 545px" />
+<img class="alignnone size-full wp-image-305" title="muesli pistacchi" src="/wp-content/uploads/2012/08/rossibiancopistacchi.jpg" alt="muesli pistacchi" width="545" height="395" />
 
 ## Muesli di Anna
 
@@ -31,7 +31,7 @@ Non mi dilungo oltre.
 * 1 tazza e 1/2 di mirtilli rossi disidratati (o lamponi disidratati)
 * 1 tazza di cioccolato bianco a pezzi_
 
-<img class="alignnone size-full wp-image-306" title="pistacchio" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/pistacchio.jpg" alt="pistacchio" width="545" height="407" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/pistacchio.jpg 2592w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/pistacchio-300x224.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/pistacchio-1024x764.jpg 1024w" sizes="(max-width: 545px) 100vw, 545px" />
+<img class="alignnone size-full wp-image-306" title="pistacchio" src="/wp-content/uploads/2012/08/pistacchio.jpg" alt="pistacchio" width="545" height="407" />
 
 Premetto che, esclusi avena, mandorle, olio e miele tutti gli ingredienti sono facoltativi sia per dosi che per presenza. Ho provato a fare i muesli cambiando il &#8220;condimento&#8221;, se così vogliamo chiamarlo, a seconda del mio personalissimo gusto. Vi invito a fare altrettanto, perché spaccano.
 
@@ -39,8 +39,8 @@ Preriscalda il forno a 180°C. in un pentolino, a fuoco lento, sciogli olio e mi
 
 Cuoci per dieci minuti, poi estrai la piastra dal forno e mescola bene, così da far dorare tutti i fiocchi. Cuoci per un&#8217;altra mezzora, intervallando ogni 5 minuti per mescolare i muesli, finché non saranno completamente tostati.
 
-<img title="muesli tostati" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/tostati.jpg" alt="muesli tostati" width="545" height="552" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/tostati.jpg 1900w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/tostati-296x300.jpg 296w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/tostati-1010x1024.jpg 1010w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="muesli tostati" src="/wp-content/uploads/2012/08/tostati.jpg" alt="muesli tostati" width="545" height="552" />
 
 Una volta estratti dal forno, lasciate raffreddare prima di aggiungere gli ingredienti<br /> facoltativi (in questo caso pistacchi, mirtilli rossi e cioccolato). Mescolate bene<br /> e chiudete il tutto in barattoli ermetici.
 
-<img title="barattoli" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/barattoli.jpg" alt="barattoli" width="545" height="729" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/08/barattoli.jpg 1936w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/barattoli-224x300.jpg 224w, http://kitchen.annalanaro.com/wp-content/uploads/2012/08/barattoli-764x1024.jpg 764w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="barattoli" src="/wp-content/uploads/2012/08/barattoli.jpg" alt="barattoli" width="545" height="729" />

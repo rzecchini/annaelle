@@ -22,7 +22,7 @@ La mia colazione preferita ha come protagonisti i pancakes, quella sorta di crep
   
 Semplici, vegan, deliziosi.
 
-<img src="http://anotherkitchenblog.files.wordpress.com/2012/03/pk6.jpg" alt="pancakes" width="533" height="384" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk6.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk6-300x215.jpg 300w" sizes="(max-width: 533px) 100vw, 533px" />
+<img src="/wp-content/uploads/2012/03/pk6.jpg" alt="pancakes" width="533" height="384" />
 
 ## Cinnamon glazed pancakes
   
@@ -46,7 +46,7 @@ Quando sarà calda, versa un mestolo del composto dando alla frittella la forma 
 
 Il risultato saranno dei pancakes morbidi, con una leggera glassa di cannella sulla superficie, da consumare all&#8217;istante. Negli Stati Uniti si usa mangiarli con burro e sciroppo d&#8217;acero; io li preferisco in una versione italianizzata, con ricotta e marmellata di mirtilli (o quella che preferite), assieme ad una tazza di caffé nero.
 
-<img src="http://anotherkitchenblog.files.wordpress.com/2012/03/pk5.jpg" alt="pancake&marmalade" width="545" height="393" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk5.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk5-300x216.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img src="/wp-content/uploads/2012/03/pk5.jpg" alt="pancake&marmalade" width="545" height="393" />
 
 ### english text
 
@@ -72,4 +72,4 @@ As the lower part is cooked (that is when the surface gets all bubbly), sprinkle
 
 The result will be lovely cinnamon glazed fluffy pancakes, to be consumed immediatly. In the US pancakes are often served with butter and maple syrup, but I prefer a more italian-style dressing: ricotta cheese, blueberry jam and a black espresso coffee.
 
-<img src="http://anotherkitchenblog.files.wordpress.com/2012/03/pk3.jpg" alt="pancakes closeup" width="545" height="345" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk3.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pk3-300x190.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img src="/wp-content/uploads/2012/03/pk3.jpg" alt="pancakes closeup" width="545" height="345" />

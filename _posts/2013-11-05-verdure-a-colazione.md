@@ -36,4 +36,4 @@ Carrots give the cake a soft texture and they let it stay mellow for days. Needl
 
 Grate the carrots and set them aside. Beat the eggs with sugar until fluffy, then add carrots, sifted flour and baking powder. Pour in a cake pan and bake for half an hour at 180°C. Serve sprinkled with confectioner&#8217;s sugar.
 
-<img class="alignnone size-full wp-image-457" alt="torta_carote" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg" width="650" height="731" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote.jpg 650w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-266x300.jpg 266w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_carote-624x701.jpg 624w" sizes="(max-width: 650px) 100vw, 650px" />
+<img alt="torta_carote" src="/wp-content/uploads/2013/11/torta_carote.jpg" width="650" height="731" />

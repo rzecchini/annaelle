@@ -19,7 +19,7 @@ Ci sono ricette che danno soddisfazione per il lungo processo che le compone, e 
 
 Ora che gli esami incombono ogni scusa è buona per prendermi una pausa dallo studio&#8230;specialmente se ciò implica qualcosa di dolce!
 
-<img title="torta_mele" src="http://anotherkitchenblog.files.wordpress.com/2012/06/cotta1.jpg" alt="torta_mele" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/cotta1.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/06/cotta1-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="torta_mele" src="/wp-content/uploads/2012/06/cotta1.jpg" alt="torta_mele" width="545" height="364" />
 
 ## Torta semplice alle mele
 
@@ -34,16 +34,16 @@ Ora che gli esami incombono ogni scusa è buona per prendermi una pausa dallo st
 
 Sbuccia le mele, privale del torsolo e tagliale a pezzetti piccoli. In una terrina, mettile a riposare con zucchero e cannella finché non avranno rilasciato un po&#8217; del loro succo. Aggiungi poi gli altri ingredienti e mescola  per amalgamare il tutto.
 
-<img title="preparazione1" src="http://anotherkitchenblog.files.wordpress.com/2012/06/preparazione1e2.jpg" alt="" width="545" height="728" />
+<img title="preparazione1" src="/wp-content/uploads/2012/06/preparazione1e2.jpg" alt="" width="545" height="728" />
 
 Il risultato sarà piuttosto secco e &#8220;meloso&#8221; (viva i neologismi!) ma non temere: mescolando le mele rilasceranno umidità e l&#8217;impasto avrà un aspetto più omogeneo. Non farti prendere dal panico e non aggiungere latte o acqua per diluirlo: l&#8217;ho fatto una volta, ed è un errore. Grosso.
 
-<img class="alignnone size-full wp-image-274" title="consistenza" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/consistenza.jpg" alt="" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/consistenza.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/06/consistenza-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="consistenza" src="/wp-content/uploads/2012/06/consistenza.jpg" alt="" width="545" height="364" />
 
 Una volta raggiunta una consistenza simile a quella in foto, versa il composto in una teglia (meglio se a cerchio apribile, ma una qualsiasi andrà bene, testato) e spolverizzala con cannella e zucchero di canna e infornala a 180° per una mezz&#8217;ora, controllando con uno stuzzicadenti.
 
-<img class="alignnone size-full wp-image-275" title="da_infornare" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/da_infornare.jpg" alt="" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/da_infornare.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/06/da_infornare-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="da_infornare" src="/wp-content/uploads/2012/06/da_infornare.jpg" alt="" width="545" height="364" />
   
 Una volta cotta, la torta dovrebbe essere dorata e morbida, ottima sola o con del gelato (siamo in estate, in fondo). È veloce da preparare, buona e piace praticamente a tutti. Direi a prova di bomba se dovete fare un dolce per qualcuno che non conoscete bene e volete fare una bella figura. Auguri!
 
-<img class="alignnone size-full wp-image-276" title="boccone" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/boccone.jpg" alt="" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/06/boccone.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/06/boccone-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="boccone" src="/wp-content/uploads/2012/06/boccone.jpg" alt="" width="545" height="364" />

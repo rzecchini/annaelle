@@ -33,4 +33,4 @@ Prepara tutti gli ingredienti: lava bene i limoni, grattugiane la buccia e sprem
 
 Ah, le operazioni di etichettatura & co. dovranno avvenire una volta che i barattoli saranno completamente freddi! Il lemon curd si conserva per diverse settimane, a patto che sia tenuto in un luogo fresco e asciutto. Ad ogni modo, dubito che le confezioni dureranno a lungo se la vostra golosità è simile alla mia!
 
-<img title="lemoncurd" src="http://anotherkitchenblog.files.wordpress.com/2012/01/lemoncurd1.jpg" alt="" width="424" height="374" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/01/lemoncurd1.jpg 1345w, http://kitchen.annalanaro.com/wp-content/uploads/2012/01/lemoncurd1-300x264.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2012/01/lemoncurd1-1024x904.jpg 1024w" sizes="(max-width: 424px) 100vw, 424px" />
+<img title="lemoncurd" src="/wp-content/uploads/2012/01/lemoncurd1.jpg" alt="" width="424" height="374" />

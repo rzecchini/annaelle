@@ -19,7 +19,7 @@ Ho sperimentato questa ricetta in uno di questi pomeriggi lunghi e uggiosi, perf
 
 Potrebbe essere la svolta.
 
-<img title="banana cake breakfast" src="http://anotherkitchenblog.files.wordpress.com/2012/02/bnncake_2.jpg" alt="banana cake breakfast" width="471" height="324" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/02/bnncake_2.jpg 850w, http://kitchen.annalanaro.com/wp-content/uploads/2012/02/bnncake_2-300x206.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" />
+<img title="banana cake breakfast" src="/wp-content/uploads/2012/02/bnncake_2.jpg" alt="banana cake breakfast" width="471" height="324" />
 
 ## Sweetest Banana Cake
   
@@ -57,4 +57,4 @@ Una volta cotta, la torta dovrà essere raffreddata prima di poter accogliere pr
 
 P.S. Accompagnatela con del té Earl Grey&#8230;è la morte sua. Credetemi.
 
-<img title="bananacake_fork" src="http://anotherkitchenblog.files.wordpress.com/2012/02/bnncake_3.jpg" alt="banana cake fork" width="444" height="296" />
+<img title="bananacake_fork" src="/wp-content/uploads/2012/02/bnncake_3.jpg" alt="banana cake fork" width="444" height="296" />

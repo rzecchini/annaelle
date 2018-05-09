@@ -52,4 +52,4 @@ Bake at 170°C for an hour, checking with a toothpick (if it comes out clean and
   
 Serve sprinkled with confectioners sugar, but beware! Do not extract the cake from the pan until completely cooled, or it will crack apart.
 
-<img class="alignnone size-full wp-image-464" alt="torta_pere_pic_2" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg" width="700" height="525" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2.jpg 700w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-300x225.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/torta_pere_pic_2-624x468.jpg 624w" sizes="(max-width: 700px) 100vw, 700px" />
+<img alt="torta_pere_pic_2" src="/wp-content/uploads/2013/11/torta_pere_pic_2.jpg" width="700" height="525" />

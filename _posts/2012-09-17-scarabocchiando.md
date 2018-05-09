@@ -29,4 +29,4 @@ Here you are one of the recipes, which I&#8217;ve found in <a title="nothing in 
 
 P.S. If you have some spare time, please read <a title="why i like pie" href="http://www.nothinginthehouse.com/p/why-i-like-pie.html" target="_blank">this article</a> too, it made me smile.
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/09/17/scarabocchiando/pastasemplice/" rel="attachment wp-att-325"><img class="alignnone size-full wp-image-325" title="pastasemplice" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/09/pastasemplice.jpg" alt="" width="545" height="1335" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/09/pastasemplice.jpg 1013w, http://kitchen.annalanaro.com/wp-content/uploads/2012/09/pastasemplice-122x300.jpg 122w" sizes="(max-width: 545px) 100vw, 545px" /></a>
+<img title="pastasemplice" src="/wp-content/uploads/2012/09/pastasemplice.jpg" alt="" width="545" height="1335" />

@@ -27,7 +27,7 @@ Questa ricetta è la soluzione alle per le massaie che &#8220;non c&#8217;hanno 
 * 1/4 di tazza di zucchero
 * 350 ml di birra chiara
 
-<img title="panespezzato" src="http://anotherkitchenblog.files.wordpress.com/2012/03/panespezzato.jpg" alt="pane spezzato" width="460" height="342" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato.jpg 684w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/panespezzato-300x223.jpg 300w" sizes="(max-width: 460px) 100vw, 460px" />
+<img title="panespezzato" src="/wp-content/uploads/2012/03/panespezzato.jpg" alt="pane spezzato" width="460" height="342" />
 
 
 
@@ -81,4 +81,4 @@ Di conseguenza, low cost è bello.
 
 
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/03/06/pane-alla-birra/pane/" rel="attachment wp-att-237"><img class="alignleft  wp-image-237" title="pane" src="http://anotherkitchenblog.files.wordpress.com/2012/03/pane.jpg" alt="pane" width="447" height="334" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pane.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/03/pane-300x224.jpg 300w" sizes="(max-width: 447px) 100vw, 447px" /></a>
+<a href="http://anotherkitchenblog.wordpress.com/2012/03/06/pane-alla-birra/pane/" rel="attachment wp-att-237"><img class="alignleft  wp-image-237" title="pane" src="/wp-content/uploads/2012/03/pane.jpg" alt="pane" width="447" height="334" /></a>

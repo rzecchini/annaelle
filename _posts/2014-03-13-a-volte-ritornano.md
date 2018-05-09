@@ -45,4 +45,4 @@ In a small bowl, dissolve the yeast into half of the water, add sugar and three 
   
 Divide the dough into 18 pieces, let them rise 20 minutes more; meanwhile, boil the solution of water, baking soda and salt. Immerse the buns (three or four at a time) for 30 seconds, then dispose them on a lined baking tray. Sprinkle them with sesame/poppy seeds and coarse salt, make a cut on every single bun and bake them at 200-210° C for15-20 minutes, until brown.
 
-<img class="alignnone size-full wp-image-485" alt="foto_buona" src="http://kitchen.annalanaro.com/wp-content/uploads/2014/03/foto_buona.jpg" width="700" height="334" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2014/03/foto_buona.jpg 700w, http://kitchen.annalanaro.com/wp-content/uploads/2014/03/foto_buona-300x143.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2014/03/foto_buona-624x297.jpg 624w" sizes="(max-width: 700px) 100vw, 700px" />
+<img alt="foto_buona" src="/wp-content/uploads/2014/03/foto_buona.jpg" width="700" height="334" />

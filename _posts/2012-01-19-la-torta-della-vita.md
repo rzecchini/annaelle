@@ -53,4 +53,4 @@ La cottura è indicativamente di un&#8217;ora, ma consiglio di controllare lo st
 
 P.S. Tiepida è la fine del mondo. P.P.S. Non vi biasimerò nel caso lo serviste con della panna, in fondo siamo esseri umani, e neanche troppo buoni.
 
-<img title="torta della vita" src="http://anotherkitchenblog.files.wordpress.com/2012/01/ppkloaf.jpg" alt="torta della vita" width="481" height="473" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/01/ppkloaf.jpg 888w, http://kitchen.annalanaro.com/wp-content/uploads/2012/01/ppkloaf-300x294.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />
+<img title="torta della vita" src="/wp-content/uploads/2012/01/ppkloaf.jpg" alt="torta della vita" width="481" height="473" />

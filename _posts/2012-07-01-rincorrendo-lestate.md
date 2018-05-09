@@ -21,7 +21,7 @@ Mi direte voi: ora siamo a luglio, che ce lo dici a fare? Beh, mia madre ha trov
   
 Grazie a mamma Elena.
 
-<img class="alignnone size-full wp-image-288" title="pomodori" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pom.jpg" alt="" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pom.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pom-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="pomodori" src="/wp-content/uploads/2012/07/pom.jpg" alt="" width="545" height="364" />
   
 ## Gazpacho della Nena
 
@@ -36,14 +36,14 @@ Grazie a mamma Elena.
 
 Metti sul fuoco una pentola d&#8217;acqua. Una volta che questa è giunta a bollore spegni il fuoco, butta i pomodori e lasciali sbollentare per  circa trenta, quaranta secondi. Non si devono cuocere! Scolali e passali sotto l&#8217;acqua fredda: ora sono pronti per essere pelati velocemente. Pratica un taglio a croce su ognuno uno dei pomodori e sbucciali.
 
-<img title="pomodori croce" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomcroce.jpg" alt="pomodori croce" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomcroce.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomcroce-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="pomodori croce" src="/wp-content/uploads/2012/07/pomcroce.jpg" alt="pomodori croce" width="545" height="364" />
 
 Taglia a pezzettoni i pomodori e mettili a riposare in una terrina con aglio, sale, olio e pepe. Nel frattempo taglia a pezzetti la cipolla e uno dei peperoni e, a parte, il cetriolo e il peperone per guarnire. Taglia il pane raffermo a dadoni e passali in forno con un po&#8217; di olio, finché non saranno dorati. In alternativa, io li taglio a fette e li faccio tostare tipo bruschetta (volendo si possono anche passare con dell&#8217;aglio).
 
-<img title="pomodori+olio" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomolio.jpg" alt="pomodori+olio" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomolio.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/07/pomolio-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="pomodori+olio" src="/wp-content/uploads/2012/07/pomolio.jpg" alt="pomodori+olio" width="545" height="364" />
 
 Aggiungi la cipolla e il peperone ai pomodori riposati, togli gli spicchi d&#8217;aglio (rimane il sapore ma si evitano tragedie durante il pasto), e con un mixer frulla tutto, fino ad ottenere una crema liscia.
 
-<img title="gazpacho" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/gazpacho1.jpg" alt="gazpacho" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/07/gazpacho1.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/07/gazpacho1-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="gazpacho" src="/wp-content/uploads/2012/07/gazpacho1.jpg" alt="gazpacho" width="545" height="364" />
 
 Aggiusta di sale, aggiungi uno spruzzo di limone e servi con la verdura a pezzi e i crostini caldi. Per le serate calde è la soluzione ideale.

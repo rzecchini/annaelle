@@ -43,25 +43,29 @@ Oh, la Svezia! Biondissimi adoni, Inverni gelidi, design all&#8217;avanguardia, 
 
 Macina i semi di cardamomo, aggiungi il latte e riscalda fino a intiepidirlo. Sbriciola il lievito in una terrina, aggiungi il latte caldo e mescola finché il lievito non si sarà dissolto. Aggiungi sale, zucchero, l&#8217;uovo e, a poco a poco, la farina fino ad ottenere una pasta liscia e un po&#8217; appiccicosa. Lascia riposare un paio d&#8217;ore. Nel frattempo componi il ripieno con burro, zucchero e cannella e sbatti l&#8217;uovo che userai per spennellare le trecce.
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_3/" rel="attachment wp-att-337"><img class="alignleft size-full wp-image-337" title="brioches_3" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_3.jpg" width="545" height="365" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_3.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_3-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" /></a>
+<img title="brioches_3" alt="" src="/wp-content/uploads/2012/11/brioches_3.jpg" width="545" height="365" />
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_2/" rel="attachment wp-att-336"><img class="alignleft size-full wp-image-336" title="brioches_2" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_2.jpg" width="545" height="814" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_2.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_2-200x300.jpg 200w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_2-685x1024.jpg 685w" sizes="(max-width: 545px) 100vw, 545px" /></a>
+<img title="brioches_2" alt="" src="/wp-content/uploads/2012/11/brioches_2.jpg" width="545" height="814" />
 
 Stendi la pasta lievitata in due quadrati, spalmaci il ripieno e piega a metà, così da ottenere due rettangoli ripieni. Dividili in cinque parti ognuno. Crea delle trecce e richiudile su se stesse (vedi le foto qui sotto). Lascia riposare le trecce crude per altri 45 minuti.
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_4/" rel="attachment wp-att-338"><img class="alignleft size-full wp-image-338" title="brioches_4" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_4.jpg" width="545" height="365" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_4.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_4-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" /></a>
+<img title="brioches_4" alt="" src="/wp-content/uploads/2012/11/brioches_4.jpg" width="545" height="365" />
 
-<img class="alignleft size-full wp-image-339" title="brioches_5" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_5.jpg" width="545" height="365" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_5.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_5-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" />
+<img title="brioches_5" alt="" src="/wp-content/uploads/2012/11/brioches_5.jpg" width="545" height="365" />
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_6/" rel="attachment wp-att-340"><img class="alignleft size-full wp-image-340" title="brioches_6" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_6.jpg" width="545" height="364" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_6.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_6-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_7b/" rel="attachment wp-att-342"><img class="alignleft size-full wp-image-342" title="brioches_7a" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_7a.jpg" width="545" height="365" /></a>
+<img title="brioches_6" alt="" src="/wp-content/uploads/2012/11/brioches_6.jpg" width="545" height="364" />
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_7a/" rel="attachment wp-att-341"><img class="alignleft size-full wp-image-341" title="brioches_7b" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_7b.jpg" width="545" height="365" /><img class="alignleft size-full wp-image-342" title="brioches_7c" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_7c.jpg" width="545" height="365" /></a>
+<img title="brioches_7a" alt="" src="/wp-content/uploads/2012/11/brioches_7a.jpg" width="545" height="365" />
+
+<img title="brioches_7b" alt="" src="/wp-content/uploads/2012/11/brioches_7b.jpg" width="545" height="365" />
+
+<img title="brioches_7c" alt="" src="/wp-content/uploads/2012/11/brioches_7c.jpg" width="545" height="365" />
   
-<img class="alignleft size-full wp-image-342" title="brioches_7d" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_7d.jpg" width="545" height="365" />
+<img title="brioches_7d" alt="" src="/wp-content/uploads/2012/11/brioches_7d.jpg" width="545" height="365" />
 
 Spennella infine ogni treccia con l&#8217;uovo sbattuto e spruzzale generosamente con lo zucchero di canna. Inforna subito per 15/20 minuti, controllando la cottura con uno stuzzicadenti. Sono ottime calde, con il latte, a colazione. Grazie, Svezia.
 
-<a href="http://anotherkitchenblog.wordpress.com/2012/11/05/zucchero-cannella-e-ogni-cosa-bella/brioches_10/" rel="attachment wp-att-347"><img class="alignleft size-full wp-image-347" title="brioches_10" alt="" src="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_10.jpg" width="545" height="365" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_10.jpg 709w, http://kitchen.annalanaro.com/wp-content/uploads/2012/11/brioches_10-300x200.jpg 300w" sizes="(max-width: 545px) 100vw, 545px" /></a>
+<img title="brioches_10" alt="" src="/wp-content/uploads/2012/11/brioches_10.jpg" width="545" height="365" />
 
 ### english text
 

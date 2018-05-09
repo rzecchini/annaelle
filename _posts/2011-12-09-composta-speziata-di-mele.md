@@ -35,6 +35,6 @@ Una volta che l&#8217;acqua è stata assorbita dal composto e le mele sono quasi
 
 La composta è priva di qualsiasi tipo di conservanti, quindi dovrà restare in frigo anche se chiusa. Finché non viene aperta resterà chiusa per un mese, forse più (ricorda di controllare, la sicurezza non è mai troppa). Una volta aperta è meglio consumarla nel giro di una settimana.
 
-<img class="wp-image-65 " title="compote_label" src="http://anotherkitchenblog.files.wordpress.com/2011/12/chocolat-cafe-vintage-graphicsfairy3aa.jpg" alt="compote_label" width="417" height="411" />
+<img title="compote_label" src="/wp-content/uploads/2011/12/chocolat-cafe-vintage-graphicsfairy3aa.jpg" alt="compote_label" width="417" height="411" />
 
 _Sbizzarrirsi sull&#8217;etichetta, la parte migliore&#8230;_

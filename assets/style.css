@@ -327,6 +327,7 @@ img {
   flex-wrap: wrap;
   max-width: 50rem;
   margin: 0 auto;
+  padding-top: 2rem;
 }
 
 .recipe {
@@ -383,6 +384,7 @@ img {
 }
 
 .post .container > * {
+  display: block;
   max-width: 32rem;
   margin: 0 auto 1rem;
 }

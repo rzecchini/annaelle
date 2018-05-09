@@ -19,7 +19,7 @@ Nevica.
 
 Non è una novità, nevica ovunque, in particolar modo qui ad Urbino. Tutto ciò significa che i mezzi pubblici sono bloccati, i treni manco parlarne, ogni mezz&#8217;ora salta la luce e in tutto il centro storico l&#8217;acqua è venuta a mancare. Nel frattempo, i supermercati hanno annunciato che fino a lunedì possiamo scordarci i nuovi arrivi commestibili.
 
-<img title="vista da camera mia" src="http://anotherkitchenblog.files.wordpress.com/2012/02/vista_3.jpg" alt="vista da camera mia" width="406" height="303" />
+<img title="vista da camera mia" src="/wp-content/uploads/2012/02/vista_3.jpg" alt="vista da camera mia" width="406" height="303" />
 
 Una volta appurato che non sarei tornata in patria neanche questo weekend, ho deciso di far fruttare il tempo e ho acceso il forno&#8230; ecco una ricetta capace di scaldare anche il più gelido dei pomeriggi, caloricamente parlando.
 
@@ -48,4 +48,4 @@ In una terrina a parte, setaccia assieme farina, cannella, sale, bicarbonato e i
 
 Al posto dell&#8217;uvetta, si possono usare datteri, mandorle, noci, nocciole o qualsiasi altra cosa che possa ispirare simpatia.
 
-<img title="biscotti e neve" src="http://anotherkitchenblog.files.wordpress.com/2012/02/collage1.jpg" alt="biscotti e neve" width="407" height="441" />
+<img title="biscotti e neve" src="/wp-content/uploads/2012/02/collage1.jpg" alt="biscotti e neve" width="407" height="441" />

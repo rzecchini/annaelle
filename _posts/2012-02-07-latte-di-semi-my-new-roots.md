@@ -22,4 +22,4 @@ Un video semplice e decisamente bello da vedere per fare in casa del latte vegan
 
 P.S. Se non foste già assidui e appassionati lettori, date un&#8217;occhiata al blog (<a title="My New Roots" href="http://mynewroots.blogspot.com/" target="_blank">http://mynewroots.blogspot.com/</a>) e innamoratevene. Mi raccomando.
 
-<img title="my new roots" src="http://anotherkitchenblog.files.wordpress.com/2012/02/pic_video.jpg" alt="my new roots" width="433" height="254" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2012/02/pic_video.jpg 890w, http://kitchen.annalanaro.com/wp-content/uploads/2012/02/pic_video-300x176.jpg 300w" sizes="(max-width: 433px) 100vw, 433px" />
+<img title="my new roots" src="/wp-content/uploads/2012/02/pic_video.jpg" alt="my new roots" width="433" height="254" />

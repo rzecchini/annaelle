@@ -48,4 +48,4 @@ Chop the romanesco, discarding leaves and the white stiff parts, then cook it in
 
 In a bowl, whisk cheese and the egg, then add the cooked romanesco (let it cool before adding it to the cheese mixture). Line a cake pan with 3/4 of the dough, then pour in the filling and cover with dough stripes such as in the picture. Cook the pie for 45-65 minutes at 180°C, until golden (check the bottom: it has to be well cooked!). Let it cool before serving.
 
-<img class="alignnone size-full wp-image-473" alt="foto_t_r_1_picc" src="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/foto_t_r_1_picc.jpg" width="700" height="557" srcset="http://kitchen.annalanaro.com/wp-content/uploads/2013/11/foto_t_r_1_picc.jpg 700w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/foto_t_r_1_picc-300x238.jpg 300w, http://kitchen.annalanaro.com/wp-content/uploads/2013/11/foto_t_r_1_picc-624x496.jpg 624w" sizes="(max-width: 700px) 100vw, 700px" />
+<img alt="foto_t_r_1_picc" src="/wp-content/uploads/2013/11/foto_t_r_1_picc.jpg" width="700" height="557" />
