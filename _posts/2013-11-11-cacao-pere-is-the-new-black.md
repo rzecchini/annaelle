@@ -5,7 +5,7 @@ date: 2013-11-11T18:09:44+00:00
 author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=461
-permalink: /cacao-pere-is-the-new-black/
+permalink: /kitchen/cacao-pere-is-the-new-black/
 image: /wp-content/uploads/2013/11/torta_pere1.jpg
 categories:
   - dolce

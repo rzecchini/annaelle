@@ -5,7 +5,7 @@ date: 2012-07-01T14:30:21+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=284
-permalink: /rincorrendo-lestate/
+permalink: /kitchen/rincorrendo-lestate/
 categories:
   - ricette
   - salato

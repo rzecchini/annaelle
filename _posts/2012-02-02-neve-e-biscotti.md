@@ -5,7 +5,7 @@ date: 2012-02-02T17:01:28+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=133
-permalink: /neve-e-biscotti/
+permalink: /kitchen/neve-e-biscotti/
 categories:
   - dolce
   - ricette

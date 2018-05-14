@@ -5,7 +5,7 @@ date: 2012-05-23T15:32:21+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=257
-permalink: /gran-ritorno-al-cioccolato/
+permalink: /kitchen/gran-ritorno-al-cioccolato/
 categories:
   - dolce
   - ricette

@@ -5,7 +5,7 @@ date: 2013-10-14T22:11:36+00:00
 author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=437
-permalink: /cheese-lover/
+permalink: /kitchen/cheese-lover/
 image: /wp-content/uploads/2013/10/cheesecake_finale.jpg
 categories:
   - dolce

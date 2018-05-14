@@ -5,7 +5,7 @@ date: 2011-12-09T00:53:29+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=17
-permalink: /composta-speziata-di-mele/
+permalink: /kitchen/composta-speziata-di-mele/
 categories:
   - ricette
 tags:

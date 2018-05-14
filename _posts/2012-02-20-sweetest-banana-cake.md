@@ -5,7 +5,7 @@ date: 2012-02-20T17:45:47+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=166
-permalink: /sweetest-banana-cake/
+permalink: /kitchen/sweetest-banana-cake/
 categories:
   - dolce
   - ricette

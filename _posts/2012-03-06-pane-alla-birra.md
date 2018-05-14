@@ -5,7 +5,7 @@ date: 2012-03-06T14:44:01+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=234
-permalink: /pane-alla-birra/
+permalink: /kitchen/pane-alla-birra/
 categories:
   - ricette
   - salato

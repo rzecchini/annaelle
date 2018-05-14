@@ -5,7 +5,7 @@ date: 2012-08-25T18:32:53+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=303
-permalink: /alla-faccia-della-kelloggs/
+permalink: /kitchen/alla-faccia-della-kelloggs/
 categories:
   - dolce
   - ricette

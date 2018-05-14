@@ -5,7 +5,7 @@ date: 2014-03-13T18:11:07+00:00
 author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=482
-permalink: /a-volte-ritornano/
+permalink: /kitchen/a-volte-ritornano/
 image: /wp-content/uploads/2014/03/laugenbrot.jpg
 categories:
   - ricette

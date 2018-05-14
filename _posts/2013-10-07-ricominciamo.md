@@ -5,7 +5,7 @@ date: 2013-10-07T17:14:28+00:00
 author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=419
-permalink: /ricominciamo/
+permalink: /kitchen/ricominciamo/
 image: /wp-content/uploads/2013/10/tortino_funghi_fin.jpg
 categories:
   - illustrazioni

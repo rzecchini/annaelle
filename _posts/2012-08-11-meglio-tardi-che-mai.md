@@ -5,7 +5,7 @@ date: 2012-08-11T17:58:57+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=297
-permalink: /meglio-tardi-che-mai/
+permalink: /kitchen/meglio-tardi-che-mai/
 categories:  
   - illustrazioni
   - ricette

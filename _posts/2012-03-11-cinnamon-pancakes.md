@@ -5,7 +5,7 @@ date: 2012-03-11T15:49:20+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=247
-permalink: /cinnamon-pancakes/
+permalink: /kitchen/cinnamon-pancakes/
 categories:
   - dolce
   - ricette

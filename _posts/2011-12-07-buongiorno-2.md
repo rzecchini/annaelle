@@ -5,7 +5,7 @@ date: 2011-12-07T14:12:27+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=4
-permalink: /buongiorno-2/
+permalink: /kitchen/buongiorno-2/
 categories:
   - pensieri
 ---

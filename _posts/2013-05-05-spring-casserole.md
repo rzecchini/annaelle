@@ -5,7 +5,7 @@ date: 2013-05-05T20:42:07+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=385
-permalink: /spring-casserole/
+permalink: /kitchen/spring-casserole/
 image: /wp-content/uploads/2013/05/casserole_web.jpg
 categories:
   - illustrazioni

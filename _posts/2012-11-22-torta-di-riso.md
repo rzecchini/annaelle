@@ -5,7 +5,7 @@ date: 2012-11-22T10:04:22+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=327
-permalink: /torta-di-riso/
+permalink: /kitchen/torta-di-riso/
 image: /wp-content/uploads/2012/11/tortadiriso_finale.jpg
 categories:
   - dolce

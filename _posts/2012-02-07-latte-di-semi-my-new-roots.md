@@ -5,7 +5,7 @@ date: 2012-02-07T13:18:29+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=156
-permalink: /latte-di-semi-my-new-roots/
+permalink: /kitchen/latte-di-semi-my-new-roots/
 categories:
   - pensieri
   - video

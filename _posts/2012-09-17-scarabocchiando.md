@@ -5,7 +5,7 @@ date: 2012-09-17T19:39:10+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=243
-permalink: /scarabocchiando/
+permalink: /kitchen/scarabocchiando/
 categories:
   - dolce
   - illustrazioni

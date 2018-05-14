@@ -5,7 +5,7 @@ date: 2013-11-05T20:22:17+00:00
 author: annalanaro
 layout: post
 guid: http://kitchen.annalanaro.com/?p=451
-permalink: /verdure-a-colazione/
+permalink: /kitchen/verdure-a-colazione/
 image: /wp-content/uploads/2013/11/torta_carote_pic.jpg
 categories:
   - dolce

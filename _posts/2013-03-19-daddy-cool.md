@@ -5,7 +5,7 @@ date: 2013-03-19T19:19:57+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=375
-permalink: /daddy-cool/
+permalink: /kitchen/daddy-cool/
 image: /wp-content/uploads/2013/03/foto.jpg
 categories:
   - dolce

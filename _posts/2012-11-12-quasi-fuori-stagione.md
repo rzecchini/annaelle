@@ -5,7 +5,7 @@ date: 2012-11-12T17:03:22+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=353
-permalink: /quasi-fuori-stagione/
+permalink: /kitchen/quasi-fuori-stagione/
 image: /wp-content/uploads/2012/11/flan_carciofi.jpg
 categories:
   - ricette

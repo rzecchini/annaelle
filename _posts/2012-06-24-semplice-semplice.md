@@ -5,7 +5,7 @@ date: 2012-06-24T17:41:01+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=270
-permalink: /semplice-semplice/
+permalink: /kitchen/semplice-semplice/
 categories:
   - dolce
   - ricette

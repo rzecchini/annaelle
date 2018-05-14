@@ -5,7 +5,7 @@ date: 2012-02-24T13:47:07+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=180
-permalink: /hummus-my-way/
+permalink: /kitchen/hummus-my-way/
 categories:
   - ricette
   - salato

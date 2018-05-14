@@ -5,7 +5,7 @@ date: 2012-01-11T10:08:21+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=88
-permalink: /christmas-lemon-curd/
+permalink: /kitchen/christmas-lemon-curd/
 categories:
   - dolce
   - ricette

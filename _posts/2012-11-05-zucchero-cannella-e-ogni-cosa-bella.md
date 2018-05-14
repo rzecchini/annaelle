@@ -5,7 +5,7 @@ date: 2012-11-05T16:30:17+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=335
-permalink: /zucchero-cannella-e-ogni-cosa-bella/
+permalink: /kitchen/zucchero-cannella-e-ogni-cosa-bella/
 sharing_disabled:
   - "1"
 switch_like_status:

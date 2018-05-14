@@ -5,7 +5,7 @@ date: 2013-03-04T19:49:49+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=370
-permalink: /back-in-black-and-white/
+permalink: /kitchen/back-in-black-and-white/
 image: /wp-content/uploads/2013/03/abbracci_picc.jpg
 categories:
   - dolce

@@ -5,7 +5,7 @@ date: 2012-01-19T11:35:51+00:00
 author: annalanaro
 layout: post
 guid: http://anotherkitchenblog.wordpress.com/?p=122
-permalink: /la-torta-della-vita/
+permalink: /kitchen/la-torta-della-vita/
 categories:
   - dolce
   - ricette
