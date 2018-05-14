@@ -1,10 +1,7 @@
-# http://kitchen.annalanaro.com/	https://www.annalanaro.com/kitchen/
-
-/test   /
-
 # Redirect default Netlify subdomain to primary domain
 https://annaelle.netlify.com/* https://www.annalanaro.com/:splat 301!
 
-
+# Redirect blog
 https://kitchen.annalanaro.com/* https://www.annalanaro.com/kitchen/:splat 301!
 http://kitchen.annalanaro.com/* https://www.annalanaro.com/kitchen/:splat 301!
+http://kitchen.annalanaro.com/category/* https://www.annalanaro.com/kitchen/ 301!
