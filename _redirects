@@ -5,3 +5,5 @@ https://annaelle.netlify.com/* https://www.annalanaro.com/:splat 301!
 http://kitchen.annalanaro.com/category/* https://www.annalanaro.com/kitchen/ 301!
 https://kitchen.annalanaro.com/* https://www.annalanaro.com/kitchen/:splat 301!
 http://kitchen.annalanaro.com/* https://www.annalanaro.com/kitchen/:splat 301!
+
+/portfolio /
