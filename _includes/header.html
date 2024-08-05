@@ -8,15 +8,6 @@
   </div>
       
   <div>
-    <ul class="menu">
-      {% assign works = site.pages | where: "menu", true | sort: 'index' %}
-      {% for work in works %}
-        {% if work.title %}
-          <li>
-            <a href="{{ work.url }}">{{ work.title }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    
   </div>
 </div>
